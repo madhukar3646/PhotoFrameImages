@@ -4,8 +4,6 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf2.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf3.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf4.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf5.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf6.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf7.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf8.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf9.png",
