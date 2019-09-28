@@ -10,6 +10,12 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf10.png"
     ],
   "landscape":[
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf1.png",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf2.png",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf3.png",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf4.png",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf5.png",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf6.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf1.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf2.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf3.png",
