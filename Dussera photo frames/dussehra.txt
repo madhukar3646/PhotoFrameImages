@@ -1,15 +1,15 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/bpf1.png",
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/bpf2.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf1.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf2.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf3.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf4.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf7.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf8.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf9.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf10.png"
+  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/bpf1.webp",
+  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/bpf2.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf1.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf2.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf3.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf4.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf7.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf8.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf9.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf10.webp"
     ],
   "landscape":[
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf1.webp",
