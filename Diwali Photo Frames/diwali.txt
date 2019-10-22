@@ -12,7 +12,7 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf10.webp"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf1.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf1.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf2.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf3.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf4.webp",
