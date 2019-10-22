@@ -1,15 +1,15 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/bpf1.webp",
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/bpf2.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf1.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf2.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf3.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf4.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf7.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf8.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf9.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/portrait/pf10.webp"
+  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf1.webp",
+  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf2.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf3.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf4.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf5.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf6.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf7.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf8.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf9.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/portrait/pf10.webp"
     ],
   "landscape":[
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf1.webp",
