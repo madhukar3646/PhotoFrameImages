@@ -1,0 +1,36 @@
+{
+  "portrait":[
+  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf01.webp",
+  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf02.webp",
+   "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf03.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf04.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf05.webp",
+   "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf06.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf07.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf08.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf09.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf10.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf11.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf12.webp"
+    ],
+  "landscape":[
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf01.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf02.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf03.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf04.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf05.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf06.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf08.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf09.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf10.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf11.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf12.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf13.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf14.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf15.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf16.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf17.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf18.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf19.webp"
+    ]
+}
